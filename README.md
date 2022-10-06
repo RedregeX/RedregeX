@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/274px-Rotating_earth_%28large%29.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif" width="100"/>
 </div>
