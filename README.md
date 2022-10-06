@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://bit.ly/3rE5rGF" width="100"/>
+  <img src="https://starwalk.space/gallery/images/jupiter-opposition-2022/1920x1080.jpg" width="100"/>
 </div>
