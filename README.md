@@ -7,7 +7,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedregeX&theme=dark&background=000000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedregeX&theme=dark&background=000000)](https://github.com/RedregeX)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedregeX&theme=dark&background=000000)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedregeX&theme=dark&background=000000)](https://github.com/RedregeX)
