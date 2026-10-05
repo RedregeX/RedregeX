@@ -4,7 +4,7 @@
     <img src="assets/header-dark.svg" alt="RedregeX — web, apps, experiments. A few things I build with.">
   </picture>
 
-<p>I like making things I can actually use — and sometimes things that are just fun to build.</p>
+<p>I like making things I can actually use and sometimes things that are just fun to build.</p>
 
 <h2>On my workbench</h2>
 
